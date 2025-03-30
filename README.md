@@ -1,1 +1,1 @@
-# ANN-Classification-Churn
+pip install -r req.txt
